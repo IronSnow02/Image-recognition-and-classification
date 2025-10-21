@@ -1,2 +1,2 @@
-https://drive.google.com/drive/folders/1zacYItQL8_ulPXnhzAcdfCPMC85gPaZA?usp=sharing
-（Data）
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+（Data Source）
